@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: b384cecc322c8fb4b926d602c5bbb597
+SketchUpImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 83996552_1258067347715964_6542601884761325568_n
+    second: {fileID: 2100000, guid: 02bb6c0f0aa815b4191f5aad840ebb70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: f4697f62dadacf74d8bad5c6aa50ac77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0098_DodgerBlue]'
+    second: {fileID: 2100000, guid: 112cfea08a08d2c4ba313729da7999dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0100_SteelBlue]'
+    second: {fileID: 2100000, guid: 5e9035404fa865c40b4b9258395df522, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0102_RoyalBlue]'
+    second: {fileID: 2100000, guid: 82b802f13cb10a041bf0d06a40ec03a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0136_Charcoal]'
+    second: {fileID: 2100000, guid: f8833667014e7974895e151226aa128b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color A05]'
+    second: {fileID: 2100000, guid: 54caae88a0ef7d94188f3890c0f27afd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color E06]'
+    second: {fileID: 2100000, guid: cb4b78ceb85c53d41b6079516437317c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color I07]'
+    second: {fileID: 2100000, guid: 494153f7a9397ec4980b5b01f425b43e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M00]'
+    second: {fileID: 2100000, guid: 2ab60ea0f5071704ba9c5f01d9eaad72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M09]'
+    second: {fileID: 2100000, guid: 088785afe3cac194f9a0eeafa1e178f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_F15]'
+    second: {fileID: 2100000, guid: 10a855a1106195d44a2dc710167e628b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Marble Carrara Floor Tile]'
+    second: {fileID: 2100000, guid: 33f93dae5dffc4642b85f10ddc130603, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Marble Carrara Gold Floor Tile]'
+    second: {fileID: 2100000, guid: e226be940d863964d81a957f3bc03807, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fdgdfgdf
+    second: {fileID: 2100000, guid: 1bbd2d493300eae4da7379a02944e943, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fgdfgdfgdfgdfg
+    second: {fileID: 2100000, guid: 26c893f14507f3246a0b12fad350ec7d, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 83996552_1258067347715964_6542601884761325568_n
+    second: {fileID: 2800000, guid: 8f7d1b04d0a167040854fdbb30a994f5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Marble Carrera Floor Tile
+    second: {fileID: 2800000, guid: 83ab69c895f73ae41bbf82609fac244c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Marble Carreragold Floor Tile
+    second: {fileID: 2800000, guid: 5e06d4cc51aa4014883f4e21e31e89b9, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.0254
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  generateBackFace: 1
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000003b0000003c0000004d0000004e00000068000000690000008600000087000000990000009a000000ac000000ad000000bf000000c0000000e9000000ea000000fb000000fc0000001d0100001e01000031010000320100004401000045010000590100005a01000078010000790100008d0100008e010000aa010000ab010000bd010000be010000d2010000d3010000f5010000f601000007020000080200001b0200001c020000320200003302000045020000460200005a0200005b02000077020000780200008e0200008f020000a2020000a3020000ba020000bb020000ce020000cf020000e1020000e2020000fa020000fb0200000e0300000f03000025030000260300003e0300003f030000530300005403000072030000730300008b0300008c0300009d0300009e030000af030000b0030000c5030000c6030000d8030000d9030000ef030000f0030000020400000304000016040000170400002d0400002e04000046040000470400005a0400005b0400006e0400006f0400008504000086040000a6040000a7040000b8040000b9040000ca040000cb040000dc040000dd040000f2040000f30400001005000011050000270500002805000058050000590500006a0500006b05000080050000810500009805000099050000b0050000b1050000ca050000cb050000e2050000e3050000f9050000fa0500001206000013060000240600002506000038060000390600004d0600004e06000061060000620600008006000081060000b2060000b3060000c7060000c8060000d9060000da060000ed060000ee060000020700000307000016070000170700002d0700002e07000042070000430700006d0700006e07000083070000840700009c0700009d070000b7070000b8070000cf070000d0070000e2070000e3070000f8070000f907000011080000120800003f0800004008000058080000590800006a0800006b08000085080000860800009708000098080000a9080000aa080000bb080000bc080000c2080000c3080000e4080000e5080000f6080000f70800000e0900000f09000032090000330900004e0900004f090000610900006209000075090000760900008a0900008b090000bb090000bc090000df090000e0090000f6090000f70900000b0a00000c0a00001f0a0000200a0000310a0000320a0000430a0000440a0000550a0000560a0000570a0000580a0000590a00005a0a00005b0a00005c0a00005d0a00005e0a00005f0a0000600a0000610a0000620a0000630a0000640a0000650a0000660a0000670a0000680a0000690a00006a0a00006b0a00006c0a00006d0a00006e0a00006f0a0000700a0000710a0000720a0000730a0000740a0000750a0000760a0000770a0000780a0000790a00007a0a00007b0a00007c0a00007d0a00007e0a00007f0a0000800a0000810a0000820a0000830a0000840a0000850a0000860a0000870a0000880a0000890a00008a0a00008b0a00008c0a00008d0a00008e0a00008f0a0000900a0000910a0000920a0000930a0000940a0000950a0000960a0000970a0000980a0000990a00009a0a00009b0a00009c0a00009d0a00009e0a00009f0a0000a00a0000a10a0000a20a0000a30a0000
+  assetHash:
+    serializedVersion: 2
+    Hash: 569863e1919228fa796bb190832ad118
+  fileUnit: 0

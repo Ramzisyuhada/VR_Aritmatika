@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Shandy/Scenes/Progress 1.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 16eaadda5ce9d144890809e98194c209,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fdab81a1e37d88b41800d6e5808c472d,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: faa8516cc68831e44822d27f9f025740,
+      type: 2}
